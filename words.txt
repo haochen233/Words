@@ -82,4 +82,12 @@ n.亲戚 4.offset v.抵消n.偏移量
 4.privacy n.隐私，秘密
 
 2020/02/12
-1.exterprise n.企业；事业，事业心
+1.enterprise n.企业；事业，事业心
+
+2020/02/13
+1.media n.媒质，介质 2.proxy n.代理人，委托书 3.Kubernetes
+（读音：库伯耐踢死si） 4.dashboard n.仪表盘  
+
+2020/02/15
+1.authorization n.许可，授权，批准 2.cluster n.群，集群，串，
+簇 3.pending prep.挂起，以待。
