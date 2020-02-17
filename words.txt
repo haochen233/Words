@@ -90,4 +90,18 @@ n.亲戚 4.offset v.抵消n.偏移量
 
 2020/02/15
 1.authorization n.许可，授权，批准 2.cluster n.群，集群，串，
-簇 3.pending prep.挂起，以待。
+簇 3.pending prep.挂起，以待。  
+
+2020/02/16
+1.operand n.操作数，操作对象  
+
+2020/02/17 
+1. enforce vt.实施，执行，强迫 2.permissive adj.许可的，
+自由的，宽容的 3.stuck adj.被卡住的，不能动的 
+4.feature n.特点，特征，特色 5.particular adj.特别的
+6.deploy vt.vi.配置，部署，展开 7.certificate n.证书 v.
+发给证明 8.storage n.存储，仓库 9.secure adj.安全的，vt.保护
+9.control-plane n.控制平面 10.perform vt.执行，完成 11.revert vi.
+恢复，回复 12.replication n.复制，回答，反响 13.desired adj.渴望的，
+想要的
+
