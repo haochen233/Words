@@ -105,3 +105,23 @@ n.亲戚 4.offset v.抵消n.偏移量
 恢复，回复 12.replication n.复制，回答，反响 13.desired adj.渴望的，
 想要的
 
+2020/02/18
+1.loopback n.回路，环回 2.metadate n.原数据 3. generate vt.发生，使形成
+4. label n.标签 5.spec（speciticaton的简写）n.说明书，详述，规格
+6.priority n.优先，优先权 7.grace n.优雅 8.period n.周期，期间
+9.toleration n.宽容，默认，忍受 10.phase n.时期，阶段
+11. manual adj.手工的，手动的 n.手册，指南（linux的man命令）
+12.manifest v.表明 n.清单 13.specify v.指定，说明，列举
+14.stable n.稳定的 15.beta n.测试版 16.canary n.让小部分用户先体验
+的版本，金丝雀 17.bucket n.桶
+
+2020/02/20
+1.colon n.冒号 2.forward adj.向前的，早的，vt.转运，转寄。
+2.annotation n.注释，注解 3.scale n.规模,比例，刻度 4.probe n.探针
+5. previous adv.早先地，在...以前 
+
+2020/02/21 
+1.replica n.复制品 2.replicate v.复制，折叠
+
+2020/02/22
+1.cascade n.串联，小瀑布
