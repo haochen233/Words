@@ -125,3 +125,10 @@ n.亲戚 4.offset v.抵消n.偏移量
 
 2020/02/22
 1.cascade n.串联，小瀑布
+
+2020/02/23
+1.parallelism n.平行
+
+2020/02/24
+1.affinity n.密切关系，吸引力。亲和力 2. session n.会话，会议
+2. ingress n.入口，进入
