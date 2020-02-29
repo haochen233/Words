@@ -132,3 +132,19 @@ n.亲戚 4.offset v.抵消n.偏移量
 2020/02/24
 1.affinity n.密切关系，吸引力。亲和力 2. session n.会话，会议
 2. ingress n.入口，进入
+
+2020/02/25 
+1. downward adj.向下的 2.persistent adj.执着的，持续的
+3.claim n.声称，要求 4. retain n.记住，保持 
+
+2020/02/26
+1.ambassador n.大使；代表；使节
+
+2020/02/27
+1.rollout n.首次展示，上线 2.undo v.取消，解开
+3. revision n.版次，修订版 4.version n.版本
+5. surge n.大浪、激增、汹涌 5.strategy n.战略，策略
+6.pause n.暂停 7.resume n.恢复
+
+2020/02/29
+1.component 
