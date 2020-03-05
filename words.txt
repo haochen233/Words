@@ -148,3 +148,10 @@ n.亲戚 4.offset v.抵消n.偏移量
 
 2020/02/29
 1.component 
+
+2020/03/02
+1.quota n.配额，限额
+
+2020/03/04
+1. unauthenticated n.无认证 2. authenticated n.已认证
+3. role n.角色，任务
